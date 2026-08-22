@@ -14046,10 +14046,10 @@ const _g = "production",
                     version: "5.3.0"
                 },
                 "jackbox-talks": {
-                    file: "script.js",
-                    css: ["assets/style-0.css"],
-                    base: "main/pp7/jackboxtalks",
-                    version: "5.25.0"
+                     file: "script.js",
+                     css: ["assets/style-0.css","slideshow-display.css"],
+                     base: "main/pp7/jackboxtalks",
+                     version: "5.25.0"
                 },
                 quiplash3: {
                     file: "script.js",
